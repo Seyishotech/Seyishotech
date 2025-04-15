@@ -1,0 +1,15 @@
+Predictive-ML-Model-CustomerChurn/
+│
+├── data/
+│   └── customer_churn_sample.csv
+│
+├── notebooks/
+│   └── churn_prediction.ipynb
+│
+├── visuals/
+│   └── (add PNGs of charts/graphs here)
+│
+├── model/
+│   └── churn_model.pkl (optional if you save the model)
+│
+└── README.md
