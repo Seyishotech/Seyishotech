@@ -43,7 +43,7 @@ With 8+ years' experience and a fresh MSc in IT (Data Analytics), I specialize i
 
 ## 🤝 Let’s Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/oluseyi-shotade/)
 - 📧 oluseyishotade@gmail.com  
 - 🌍 Based in the UK | Open to Visa-Sponsored AI/ML Roles
 
